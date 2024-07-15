@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fulatehug.github.io/sitemap
+Sitemap: https://fulatehug.github.io/app/sitemap
+Sitemap: https://fulatehug.github.io/assets/sitemap
+Sitemap: https://fulatehug.github.io/css/sitemap
+Sitemap: https://fulatehug.github.io/includes/sitemap
+Sitemap: https://fulatehug.github.io/item/sitemap
+Sitemap: https://fulatehug.github.io/src/sitemap
